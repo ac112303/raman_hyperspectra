@@ -1,8 +1,14 @@
-def phase_si() :   
-    import raman_hyperspectra as rhp
-    import warnings
-    import numpy as np
+def phase_si() : 
+
+    '''find and plot Si phase'''
+    
+    #Internal Dependencies
     from functools import reduce
+    import warnings
+    
+    #3rd party dependencies
+    import raman_hyperspectra as rhp
+    import numpy as np
     import matplotlib.pyplot as plt
 
     warnings.filterwarnings("ignore")
