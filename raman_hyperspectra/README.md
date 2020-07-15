@@ -98,4 +98,4 @@ Distributed under the [MIT license](https://mit-license.org/)
 
 # About the authors
 	- François Bertin now retired was an expert senior in nanocharacterization at CEA-LETI
-	- Amal Chabli is director of research in nanocharacterization at CEA-LITEN
+	- Amal Chabli is director of research in nanocharacterization at CEA-LITEN, will be retired end of october 2020
