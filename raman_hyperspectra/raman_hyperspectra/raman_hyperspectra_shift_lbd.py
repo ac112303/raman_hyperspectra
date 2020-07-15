@@ -333,7 +333,7 @@ def update_xarray(Y, file_info, L_x_default, L_y_default, d_lbd_Si=0):
     #if not (isinstance(Y, list)):
     #    raise NameError("type error in update_xarray: Y not a list ")
         
-    Y = np.atleast_1d(Y)
+    #Y = np.atleast_1d(Y) # generate a bug to be understood
 
     Z = []
     if Y[0].attrs["tool"] == "WITEK":
