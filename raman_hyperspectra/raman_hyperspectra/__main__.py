@@ -1,6 +1,6 @@
 def phase_si() : 
 
-    '''find and plot Si phase'''
+    '''find and plot Si phases'''
     
     #Internal Dependencies
     from functools import reduce
