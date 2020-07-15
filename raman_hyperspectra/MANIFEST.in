@@ -1,0 +1,5 @@
+include raman_hyperspectra/data/*.txt
+include raman_hyperspectra/data/*.wdf
+include raman_hyperspectra/data/RENISHAW_wdf/*.wdf
+recursive-include scripts *
+include LICENSE

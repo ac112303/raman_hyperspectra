@@ -1,0 +1,44 @@
+Large Area Scan_000
+
+General:
+System ID:	100-1200-938
+Time:	11:45:08 AM
+Date:	Wednesday, November 08, 2017
+User Name:	G-GRE-GRE041826
+Sample Name:	
+Configuration:	Raman 532
+
+Large Scale Image Scan (Smooth Scan):
+Points per Line:	101
+Lines per Image:	101
+Scan Width [µm]:	50.000
+Scan Height [µm]:	50.000
+Scan Origin X [µm]:	-40.100
+Scan Origin Y [µm]:	-22.700
+Scan Origin Z [µm]:	0.000
+Gamma [°]:	0.000
+Scan Speed [s/Line]:	13.505
+Integration Time [s]:	0.13371
+
+UHTS300:
+Excitation Wavelength [nm]:	531.980
+Grating:	G1: 600 g/mm BLZ=500nm
+Center Wavelength [nm]:	597.990
+Spectral Center [rel. 1/cm]:	2075.007
+
+DU401_BV:
+Width [Pixels]:	1024
+Height [Pixels]:	127
+Temperature [°C]:	-60
+Integration Time [s]:	0.13371
+Camera Serial Nr.:	17169
+AD Converters:	AD1 (16Bit)
+Vertical Shift Speed [µs]:	16.25
+Horizontal Shift Speed [MHz]:	0.033
+Preamplifier Gain:	1
+ReadMode:	Full Vertical Binning
+
+Scan Table:
+Position X [µm]:	0.000
+Position Y [µm]:	0.000
+
